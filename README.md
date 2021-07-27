@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - :mag_right: I am a PhD student from Johns Hopkins University.
+- :brain: I am interested in data science, machine learning and artificial intellegence.
+- :link: You can also find me on [LinkedIn](www.linkedin.com/in/kuanlin-chen-371b15200/)
 
 <!--
 **charliecharlie29/charliecharlie29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
