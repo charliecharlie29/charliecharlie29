@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :mag_right: I am a PhD student from Johns Hopkins University.
+
 <!--
 **charliecharlie29/charliecharlie29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
